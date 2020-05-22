@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1012572353144",
+    "firebase_url": "https://planets-e3edb.firebaseio.com",
+    "project_id": "planets-e3edb",
+    "storage_bucket": "planets-e3edb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012572353144:android:11c6239ad3552a255a338d",
+        "android_client_info": {
+          "package_name": "com.sofia.planets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012572353144-1i4icdo3vk8h3oilqdgh2vtbmk29ptut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwNGm2Eqns0nnyetMMkZSWn_O9P90z-Js"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012572353144-1i4icdo3vk8h3oilqdgh2vtbmk29ptut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
